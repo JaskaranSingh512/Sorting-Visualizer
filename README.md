@@ -8,7 +8,7 @@ This project visualizes different sorting algorithms, such as Bubble Sort, Quick
 - Suitable for educational purposes and learning.
 
 # Visit the Live Site
-[Sorting Algorithm Visualizer](https://yourusername.github.io/sorting-visualizer/)
+[Sorting Algorithm Visualizer](https://jaskaransingh512.github.io/Sorting-Visualizer/)
 
 # How to Use
 Click on the buttons to visualize different sorting algorithms.
